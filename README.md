@@ -1,4 +1,4 @@
-# React.js Music Player Project
+# React.js Music Player
 
 ## Description
 
@@ -6,9 +6,9 @@ This is a React.js-based music player project that allows users to play and cont
 
 ## Features
 
-- **Play/Pause:** Play or pause the currently selected track.
-- **Next/Previous:** Navigate through the pages with next and previous buttons.
-- **Status:** See the next song which is to be played
+- Play/Pause: Play or pause the currently selected track.
+- Next/Previous: Navigate through the pages with next and previous buttons.
+- Status:See the next song which is to be played
 
 ## Prerequisites
 
